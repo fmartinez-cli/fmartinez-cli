@@ -26,23 +26,23 @@ Passionate about networking, but with a multidisciplinary approach: programming,
 
 ### 📊 Status Dashboard
 Web-based dashboard for real-time server monitoring (node, server, and work order levels). Built with LAMP stack.
-🔗 **[View repository](https://github.com/fmartinez-cli/Statuspb)** (coming soon)
+🔗 **[View repository](https://github.com/fmartinez-cli/Statuspb)**
 
-### 🖥️ Zenity GUI for Linux
+### 🖥️ DataCenter Log Manager
 Graphical interface that automates diagnostic commands, log compression, and FTP uploads. Eliminated typing errors and reduced manual workload.
-🔗 **[View repository](https://github.com/fmartinez-cli/zenity-gui)** (coming soon)
+🔗 **[View repository](https://github.com/fmartinez-cli/datacenter-log-manager)**
 
 ### 🔧 Thin Client Virtualization
 Extended lifecycle of obsolete thin clients through VM deployment and centralized server infrastructure, increasing computational power while reducing e-waste.
-🔗 **[View repository](https://github.com/fmartinez-cli/thinclient-vm)** (coming soon)
+🔗 **[View repository](https://github.com/fmartinez-cli/kaizen-hyperv-testlab-optimization)**
 
-### 📋 KANBAN for Version Control
-Implemented a physical KANBAN board that solved software version chaos across 3 shifts, unifying the team's workflow without a single line of code.
-🔗 **[View case study](https://github.com/fmartinez-cli/kanban-version-control)** (coming soon)
+### 📋 Hardware Status Report System
+A fast, no-login web application for reporting the physical condition of thin client workstations in manufacturing and data center environments
+🔗 **[View repository](https://github.com/fmartinez-cli/hardware-report)**
 
 ## 📊 GitHub Stats
 ![fmartinez-cli's Stats](https://github-readme-stats.vercel.app/api?username=fmartinez-cli&show_icons=true&theme=tokyonight)
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tu-email@profesional.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-martinez-barbosa-643894142)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fernandomtz.barbosa@profesional.com)
