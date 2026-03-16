@@ -26,7 +26,7 @@ Passionate about networking, but with a multidisciplinary approach: programming,
 
 ### 📊 Status Dashboard
 Web-based dashboard for real-time server monitoring (node, server, and work order levels). Built with LAMP stack.
-🔗 **[View repository](https://github.com/fmartinez-cli/status-dashboard)** (coming soon)
+🔗 **[View repository](https://github.com/fmartinez-cli/Statuspb)** (coming soon)
 
 ### 🖥️ Zenity GUI for Linux
 Graphical interface that automates diagnostic commands, log compression, and FTP uploads. Eliminated typing errors and reduced manual workload.
